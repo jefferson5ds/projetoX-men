@@ -46,9 +46,19 @@ body{
 }
 .lista-de-personagens .personagem.selecionado{
     box-shadow: 0px 0px 24px 5px color blue;
-    
+     
 
 }
-.persongem-selecionado{
+.personagens-selecionado{
+    text-align: center;
+    max-height: 530px;
+    
+}
+.personagem.selecionado  .personagem-grande{
+    width: 430px;
+    height: 430px;
+}
+.personagens-selecionado .nome-personagem{
+    border-bottom: 2px solid color blue;
     
 }
