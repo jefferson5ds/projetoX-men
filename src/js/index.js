@@ -19,7 +19,7 @@
 
         nomePersonagem.innerText= personagens.getAttribute('data-name');
 
-        
+    
 
     })
 })
